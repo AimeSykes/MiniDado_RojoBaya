@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Equipo Rojo Baya (Cruz Anaya Aime Arey, BArrera Reyes Pablo Raziel)
+@author: Equipo Rojo Baya (Cruz Anaya Aime Arely, Barrera Reyes Pablo Raziel)
 """
 from kivy.app import App
 from kivy.uix.button import Button
